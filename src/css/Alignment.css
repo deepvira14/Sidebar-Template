@@ -1,0 +1,16 @@
+.alignment{
+    display: flex;
+}
+.al__option:hover {
+    background-color: rgba(221, 219, 219, 0.822);
+    border-radius: 100px;
+    align-items: center;
+    padding: 10 15px;
+    border-bottom: none;
+}
+.al__option{
+    display: flex;
+    align-items: center;
+    padding: 0 15px;
+    cursor: pointer;
+}
